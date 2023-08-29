@@ -88,3 +88,4 @@ class Cell:
             self.win.draw_line(line, fill_color)
             line = Line(Point(to_x, to_y), Point(to_x, to_cell.y1))
             self.win.draw_line(line, fill_color)
+        
