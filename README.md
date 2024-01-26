@@ -1,4 +1,3 @@
 # maze_solver
 
-I will be building a maze solver made with python and tkinter for the graphiclal interface.
-
+Pretty neat maze solver with Python and tkinter to test out different algorithms to solve it
